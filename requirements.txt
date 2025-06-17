@@ -1,0 +1,10 @@
+Libraries used:
+PyTorch
+Ultralytics (YOLOv8)
+OpenCV
+matplotlib
+numpy
+tqdm
+os
+zipfile
+

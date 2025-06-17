@@ -1,0 +1,5 @@
+train: data/Dataset/train/images
+val: data/Dataset/valid/images
+
+nc: 2
+names: ['crater', 'boulder']
